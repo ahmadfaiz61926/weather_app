@@ -1,0 +1,8 @@
+/* src/components/WeatherDisplay/WeatherDisplay.css */
+.weather-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem 0;
+  }
+  

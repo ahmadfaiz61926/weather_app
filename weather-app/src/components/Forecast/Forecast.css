@@ -1,0 +1,8 @@
+/* src/components/Forecast/Forecast.css */
+.forecast-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 2rem 0;
+  }
+  
